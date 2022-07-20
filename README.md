@@ -3,7 +3,9 @@
 ### week-2 day-3
 ---
 **chandu**
+
 *chandu*
+
 > chandu
 
 1. chandu
@@ -13,3 +15,5 @@
 - chandu
 - banti
 - radha
+
+'code'
